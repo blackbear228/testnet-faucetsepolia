@@ -2,10 +2,6 @@
 
 <i> Testnet faucet template using Nextjs, Tailwind, hCaptcha and Redis </i>
 
-## One click deploy
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2F0xDeploy%2Ffaucet-evm-template)
-
 ## Environment Variables
 
 ```
@@ -18,7 +14,6 @@ HCAPTCHA_SECRET=0x0000000000000000000000000000000000000000
 REDIS_URI=redis://default:key@url.com:6379
 ```
 
-![](https://user-images.githubusercontent.com/19412160/212416161-e334625f-1a9c-41e2-9c4b-4c878545f45d.png)
 
 ## Definitions
 
